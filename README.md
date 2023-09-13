@@ -1,9 +1,9 @@
 <br/>
 <div align="center">
   
-  <h1>Proxyless TikTok Username Checker<h1>
+  <h1>PROXYLESS TIKTOK CHECKER<h1>
   
-  Loops through a list of usernames to check if they are available or unavailable. Click <a href="https://github.com/useragents/Proxyless-TikTok-Username-Checker/issues">here</a> to report bugs.
+  Loops through a list of usernames to check if they are available or unavailable.
   
   ![image](https://user-images.githubusercontent.com/103281345/162510554-7fbce4b6-9869-480e-a64f-b96dc56adbd1.png)
 
