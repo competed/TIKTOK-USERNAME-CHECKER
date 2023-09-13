@@ -3,7 +3,7 @@
   
   <h1>PROXYLESS TIKTOK CHECKER<h1>
   
-  Loops through a list of usernames to check if they are available or unavailable.
+  LOOPS THROUGH A LIST OF USERNAMES TO SEE IF THEY ARE AVAILABLE OT UNAVAILABLE !
   
   ![image](https://user-images.githubusercontent.com/103281345/162510554-7fbce4b6-9869-480e-a64f-b96dc56adbd1.png)
 
@@ -12,7 +12,7 @@
 
 --------------------------------------
 
-Usage
+###Usage
 
 
 1. Download ZIP <a href="https://github.com/competed/TIKTOK-USERNAME-CHECKER">here</a> and extract the ZIP
@@ -25,5 +25,5 @@ Usage
 
 This script only allows you to use a maximum of 5 threads to prevent ratelimits to keep this script proxyless, I am not responsible for your actions using this script. This script was made for educational purposes.
 
-author @useragents
+###author @useragents
 
